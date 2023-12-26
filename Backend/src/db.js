@@ -8,9 +8,12 @@ const sequelize = new Sequelize(
   { logging: false,
    native: false,
   dialect: 'postgres',
+  ssl: true,  // Enable SSL
   dialectOptions: {
-    ssl: true
-  }
+    ssl: {
+      require: true,  // Require SSL
+    },
+  },
   }
 );
 const basename = path.basename(__filename);
