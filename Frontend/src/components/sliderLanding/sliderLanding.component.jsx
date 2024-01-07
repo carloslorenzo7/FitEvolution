@@ -16,7 +16,7 @@ export class sliderLanding extends Component {
             prevSlide: 0,
             sliderDb: [["https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "Javier Rodríguez Torres", `"Gracias por todo FitRevolution..."`, 'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
                 ['https://images.pexels.com/photos/1310522/pexels-photo-1310522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1', "Ana Martínez López",`"La recomiendo al 100%, los profes muy buenos y la atencion de 10..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
-                ['https://images.pexels.com/photos/1370750/pexels-photo-1370750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',"Carlos García Sánchez",`"Todos deberian entrenar con Fit en una joya, toda mi familia tiene la aplicacion cuando va a entrenar..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
+                ['https://images.pexels.com/photos/1370750/pexels-photo-1370750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',"Carlos Sánchez",`"Todos deberian entrenar con Fit en una joya, toda mi familia tiene la aplicacion cuando va a entrenar..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
             ]
         }
 
