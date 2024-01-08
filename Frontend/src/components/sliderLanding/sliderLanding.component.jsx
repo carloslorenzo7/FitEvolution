@@ -14,9 +14,9 @@ export class sliderLanding extends Component {
         this.state = {
             isPaused: false,
             prevSlide: 0,
-            sliderDb: [["https://image.ondacero.es/clipping/cmsimages02/2023/10/06/D3CE1D9B-5698-4382-8197-B40E3D348759/presidente-ruso-vladimir-putin-imagen-archivo_98.jpg?crop=1080,608,x0,y10&width=1900&height=1069&optimize=high&format=webply", "Putin", `"Gracias por todo FitRevolution..."`, 'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
-                ['https://media.todojujuy.com/p/58476976e73404cf95859b1f956fc363/adjuntos/227/imagenes/003/240/0003240691/575x324/smart/chaqueno-palavecinojpg.jpg', "Chaqueño Palavecino",`"La recomiendo al 100%, los profes muy buenos y la atencion de 10..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
-                ['https://media.ambito.com/p/f898ed44b6c2c94ab03b3a8258341a2e/adjuntos/239/imagenes/040/468/0040468458/mirthajpg.jpg',"Mirtha Legrand",`"Todos deberian entrenar con Fit en una joya, toda mi familia tiene la aplicacion cuando va a entrenar..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
+            sliderDb: [["https://images.pexels.com/photos/428364/pexels-photo-428364.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", "Javier Rodríguez Torres", `"Gracias por todo FitRevolution..."`, 'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
+                ['https://images.pexels.com/photos/1310522/pexels-photo-1310522.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1', "Ana Martínez López",`"La recomiendo al 100%, los profes muy buenos y la atencion de 10..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
+                ['https://images.pexels.com/photos/1370750/pexels-photo-1370750.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',"Carlos Sánchez",`"Todos deberian entrenar con Fit en una joya, toda mi familia tiene la aplicacion cuando va a entrenar..."`,'https://c0.klipartz.com/pngpicture/186/15/gratis-png-hotel-de-5-estrellas-estrella.png'],
             ]
         }
 
