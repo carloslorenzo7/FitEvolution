@@ -84,35 +84,52 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 
 ## Guía de Uso
 
-**1.** Visita [https://pi-drivers-2023.vercel.app/](https://pi-drivers-2023.vercel.app/) en tu navegador.
+**1.** Visita [https://fit-revolution-main.vercel.app/](https://fit-revolution-main.vercel.app/) en tu navegador.
 
 <p align="center">
-  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/7dbeb234-2ef7-4ed5-a9c8-1996bc6e086f" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/222eef4f-48de-4338-9c4c-4392769045a3" alt="Inicio" width=400 height=200>
 </p>
 
 
-**2.** Para ver los detalles de alguna conductor hacer click en una card o insertar el nombre en el buscador y presionar "buscar"
+**2.** Registrate como usuario o como entrenador ya sea con usuario y/o contraseña, google o facebook
 
 <p align="center">
-  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f42a7b76-93f8-415b-bb49-fe780fa60ef9" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/ec0adc08-4e06-4c19-9333-4f4fc871c9cf" alt="Inicio" width=400 height=200>
+</p>
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/2f08ccbe-15a7-4e14-95ca-87cf9d763f9a" alt="Inicio" width=400 height=200>
 </p>
 
 
-**3.** Para crear una raza hacer click en el boton "Create", completar todos los campos obligatorios y hacer click en crear.Para la imagen podes buscar el link de alguna imagen en la web.Si todo va bien te saldra el mensaje "el piloto se creo con exito!". Para volver al menu principal seleccionar el boton "volver a inicio"
+**3.** Para los deportistas deben elegir un profesor un comprar uno de sus planes de entrenamientos
 
 <p align="center">
-  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f2d7ad7a-17af-4444-ad8d-faf9256354d0" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/7068b312-ccd0-454b-b4e7-b519ae7c4274" alt="Inicio" width=400 height=200>
 </p>
 
 
-**4.** Para filtrar mejor las busquedas utilizar los filtros combinados.
+**4.** Una vez que elijen el profesor van al carrito para pagar. Los datos de la tarjeta de prueba son : n° de tarjeta "4242 4242 4242 4242", el vencimiento "04/33" tiene que ser mayor a la fecha actual  y con el siguiente formato mm/yy,el CVC "123" y el CP "45678" 
 
 <p align="center">
-  <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/199a6ae1-8fca-4565-8515-8f836a2b5d34" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/401c42a2-c5d9-467c-a925-0aa8002cc511" alt="Inicio" width=400 height=200>
+</p>
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/5a0cbdd8-2d8d-4502-b0e7-8aced94deb86" alt="Inicio" width=400 height=200>
 </p>
 
 
-**5.** Disfruta buscando a tu conductor favorito.
+**5.** Para los entrenadores la primera vez que se loguean en la aplicacion deben ser aprobados por un administrador.Deben completar todos los datos del formulario y esperar a que sean aprobados.
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/20d8539d-c5fa-486c-bd77-508980c07031" alt="Inicio" width=400 height=200>
+</p>
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/65605779-3f4d-4ab6-a834-725bbd52bfa7" alt="Inicio" width=400 height=200>
+</p>
+
 
 ## Cómo Contribuir
 
