@@ -71,18 +71,10 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 ## Capturas de Pantalla
 
 
- <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/f1bb13fb-7707-47c2-aad8-b7fe6c64302a" alt="alt text" width=225 height=400>
-
- <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/9cd98e80-655c-48aa-ab1b-90b413f24b35" alt="alt text" width=225 height=400>
-
- <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/1880336d-d10b-4cd2-8821-8d7bfc25b267" alt="alt text" width=225 height=400>
-
- <img src="https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/401cfe29-fd28-43c1-b2bf-6c536613c7b0" alt="alt text" width=225 height=400>
-
-![image](https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/ebc325ca-0c5a-4aad-80a3-5de7908ddba5)
+![image](https://github.com/haliercesr/FitRevolution/assets/115671323/04aaa867-f424-4929-ad15-2de0c0fee3ae)
 
 
-![image](https://github.com/haliercesr/PI-Drivers-2023/assets/115671323/92402a00-94aa-4179-9b80-483e680b6f48)
+![image](https://github.com/haliercesr/FitRevolution/assets/115671323/b4c501c1-21a5-45df-95bc-58f1d0fd7c6b)
 
 
 
