@@ -157,8 +157,11 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 </p>
 
 <p align="center">
-  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/4f0e03ac-8546-417e-9d91-85cb672c176f" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/de39037a-d45b-4f28-9b90-5f44721b37e7" alt="Inicio" width=400 height=200>
 </p>
+
+
+**10.** Disfruta.
 
 
 
