@@ -130,6 +130,37 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
   <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/65605779-3f4d-4ab6-a834-725bbd52bfa7" alt="Inicio" width=400 height=200>
 </p>
 
+**6.** Una vez que el entrenador es aprobado, puede ver los usuarios activos, crear rutinas, ver la informacion de su cuenta y demas.
+
+
+**7.** Para ver el panel de administrador se ingresa en el login de usuario o entrenador y se inicia sesion con las siguientes crendenciales: usuario "cesarhalier@gmail.com" y contraseña "Cesar123!".
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/de39037a-d45b-4f28-9b90-5f44721b37e7" alt="Inicio" width=400 height=200>
+</p>
+
+
+**8.** Una vez en el inicio de sesion de Admin, ingresar con las siguientes credenciales: usuario "adminTr" y contraseña "postal". En el dashboard del admin se pueden aprobar y suspender entrenadores, bannear y desbannear usuarios, enviar emails massivos , buscar usuarios y con una clave secreta borrar todos los usuarios.
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/f7f16682-a861-4569-898f-dccf5b4f51b3" alt="Inicio" width=400 height=200>
+</p>
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/f463fbe2-0412-4be4-9e18-d0341bc5055a" alt="Inicio" width=400 height=200>
+</p>
+
+**9.** El dashboard del superadmin tiene las mismas funciones que el admin ademas de otra funcion. El superadmin puede cambiar el rol de un usuario, ejemplo cambiar usuario a entrenador. Para ver el panel de superadmin se ingresa en el login de usuario o entrenador y se inicia sesion con las siguientes crendenciales: usuario "haliercesr@gmail.com" y contraseña "Cesar123!".
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/f7f16682-a861-4569-898f-dccf5b4f51b3" alt="Inicio" width=400 height=200>
+</p>
+
+<p align="center">
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/4f0e03ac-8546-417e-9d91-85cb672c176f" alt="Inicio" width=400 height=200>
+</p>
+
+
 
 ## Cómo Contribuir
 
