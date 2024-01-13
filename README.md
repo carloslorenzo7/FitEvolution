@@ -136,7 +136,7 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 **7.** Para ver el panel de administrador se ingresa en el login de usuario o entrenador y se inicia sesion con las siguientes crendenciales: usuario "cesarhalier@gmail.com" y contraseña "Cesar123!".
 
 <p align="center">
-  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/de39037a-d45b-4f28-9b90-5f44721b37e7" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/556c1a5a-f356-4d02-bb9b-ae01ed323d66" alt="Inicio" width=400 height=200>
 </p>
 
 
