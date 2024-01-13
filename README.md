@@ -76,7 +76,7 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 
 ![image](https://github.com/haliercesr/FitRevolution/assets/115671323/b4c501c1-21a5-45df-95bc-58f1d0fd7c6b)
 
-
+![image](https://github.com/haliercesr/FitRevolution/assets/115671323/359d007e-4594-4682-b62a-5ebc891b9673)
 
 
 
@@ -153,11 +153,11 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 **9.** El dashboard del superadmin tiene las mismas funciones que el admin ademas de otra funcion. El superadmin puede cambiar el rol de un usuario, ejemplo cambiar usuario a entrenador. Para ver el panel de superadmin se ingresa en el login de usuario o entrenador y se inicia sesion con las siguientes crendenciales: usuario "haliercesr@gmail.com" y contraseña "Cesar123!".
 
 <p align="center">
-  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/f7f16682-a861-4569-898f-dccf5b4f51b3" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/de39037a-d45b-4f28-9b90-5f44721b37e7" alt="Inicio" width=400 height=200>
 </p>
 
 <p align="center">
-  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/de39037a-d45b-4f28-9b90-5f44721b37e7" alt="Inicio" width=400 height=200>
+  <img src="https://github.com/haliercesr/FitRevolution/assets/115671323/b32af0fb-49a2-4b21-a237-294007a69bb6" alt="Inicio" width=400 height=200>
 </p>
 
 
