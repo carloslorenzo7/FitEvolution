@@ -2,16 +2,7 @@
 
 ![image](https://github.com/haliercesr/FitRevolution/assets/115671323/364d958a-2751-4d92-9c48-caea6f23f163)
 
-
-En esta SPA se enfatizo mas en la practicidad de las tecnologias aprendidas, se trabajo mas en la modularizacion y se utilizaron mejores practicas. Se esta trabajando en la documentacion en Git Hub y en modularizar mas.Consta de una Landing Page, Home Page, Detail Page y Form Page. Las tecnologías utilizadas fueron React, Redux, NodeJS, Express y Sequelize.
-
-Para este proyecto se reemplazo Create React App por Vite, para mejorar el rendimiento.
-
-El flujo es el siguiente: El frontend se comunica con un servidor BBF (BACK FOR FRONT) robusto y modularizado. Este servidor se programó en Express y filtra la información que se consume desde una API externa y la devuelve al frontend. También puede guardar datos según se solicite en una base de datos relacional. El servidor y la base de datos se comunican a través del ORM Sequelize. La base de datos está hecha con PostgreSQL y pgAdmin. Para probar el servidor, se utilizó el software Insomnia.
-
-Tanto el frontend, el servidor y la base de datos hacen sus propias validaciones y devuelven sus errores. Para manejar los errores se utilizaron promesas y asyncawait. 🛠️
-
-Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, cambiar de idioma) e implementando mejores prácticas y nuevas tecnologías. 🚀
+El proyecto consiste en una aplicación web que permite unir deportistas y/o personas que se ejercitan con entrenadores personales, logrando una mayor comodidad, diversidad de precios, flexibilidad de horarios y elección de entrenadores. Trabajamos en un equipo de 7 desarrolladores bajo metodologias agiles como SCRUM y Trello, un mentor y un PO. La duracion del proyecto fue de 1 mes y medio. Los mockups iniciales se hicienron en Figma, el diagrama y las relaciones de la base de datos se hicieron en Diagrams.net.
 
 ## Tabla de Contenidos
 
@@ -24,29 +15,43 @@ Con el tiempo, iré reparando errores y actualizando el proyecto (por ejemplo, c
 
 ## Funcionalidades
 
-**1.** Búsqueda de pilotos por nombre: Los usuarios pueden ingresar el nombre del piloto y obtener información sobre el mismo.
+**1.** Posibilidad de login con usuario y contraseña, google y facebook usando el servicio de Firebase de Google Cloud. Registro de usuarios y entrenadores con posibilidad de subir imagenes gracias al servicio de Cloudinary.
 
-**2.** Listado de pilotos: Se muestra una lista de drivers con sus nombres y algunas características principales.
+**2.** Para los entrenadores se debe aprobar la cuenta despues de loguearse en la pagina mediante el panel de administrador o superadministrador
 
-**3.** Detalles de piloto: Los usuarios pueden hacer click en uno de la lista para ver la información detallada, como su descripcion, escuderias y fecha de nacimiento.
+**3.** Los usuarios deben elegir un entrenador, si no aparece ninguno es porque deben aprobarse desde la cuenta de administrador y/o superadministrador
 
-**4.** Añadir de un nuevo conductor: Los usuarios pueden añadir un nuevo conductor que no se encuentre en el listado, el conductor creado se guarda automaticamente en la base de datos.
+**4.** Tanto los usuarios como los entrenadores cuentan con un dashboard.
 
-**5.** Barra de Navegación: Una barra de navegación proporciona enlaces a las diferentes secciones de la aplicación, como la página de inicio, crear una piloto, buscar un piloto por nombre, volver al inicio y salir.
+**5.** En el dashboard del usuario cada deportista puede ver sus compras realizadas, ver sus entrenamientos, cambiar de entrenador, descargar su comprobante de pago y/o sus rutinas, seleccionar un plan de entrenamiento y pagar con tarjeta de credito.
 
-**6.** Filtros combinados: para poder filtrar los resultados por nombre de escuderias, ordenar segun el alfabeto o edad, filtrar segun la api o pilotos creados en la base de datos.
+**6.** Cada usuario tiene la posibilidad de hacer una review y pdar un puntaje a cada entrenador.
 
-**7.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, ver creacion de un nuevo piloto.
+**7.** Filtros combinados para la seleccion de entrenadores
 
-**8.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
+**8.** Cada entrenador en su dashboard tiene una lista para ver todos sus usuarios, ver sus pagos, crear un plan de entrenamiento para un cliente, y ver la informacion de su cuenta.
 
-**9.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea escuderias, pilotos, busqueda por nombre de piloto y mas.
+**9.** Se esta trabajando en la posibilidad de tener un chat entre el usuario y el entrenador.Tambien la posibilidad de hacer videollamadas
 
-**10.** Diseño Responsivo: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
+**10.** Alertas Personalizadas: Se muestran alertas personalizadas en caso de errores o acciones importantes, en el registro y login de usuarios
 
-**11.** Estilos Personalizados: Solo se utilizo CSS , los estilos CSS personalizados se aplican para crear una apariencia agradable y coherente en toda la aplicación.
+**11.** Rutas y Enrutamiento: Se utiliza React Router para administrar y facilitar la navegación entre diferentes páginas y componentes de la aplicación.
 
-**12.** Interacción con API: La aplicación se conecta a una API externa para obtener información actualizada sobre cada conductor.
+**12.** Gestión de Estado con Redux: Redux se utiliza para gestionar el estado global de la aplicación, como guardar informacion recibida del servidor para usarla en el front ya sea para entrenadores y usuarios.
+
+**13.** Se esta trabajando en el Diseño Responsivo usando Material UI: La interfaz está diseñada para adaptarse a diferentes tamaños de pantalla y dispositivos, asegurando una experiencia de usuario consistente.
+
+**14.** Estilos Personalizados: Solo se utilizo Material UI , gracias a su acil instalacion, uso de componentes y diseño adaptable.
+
+**15.** Las cuentas de usuarios y entrenadores se guardan en la base de datos que esta echa con PostreSQL.
+
+**16.** La aplicacion cuenta con un panel de administrador con las siguientes funciones: mandar emails con Nodemailer a cada usuario y entrenador, filtrar y ordenar usuarios y entrenadores. Tambien cuenta con borrado logico para suspendes o aprobar un entrenador y para bannear o desbannear un deportista.
+
+**17.** La aplicacion tambien cuenta con panel de superadministrador que ademas de tener todas las funciones del administrador, se puede cambiar de rol a cualquier cuenta.
+
+**18.** Guardado de informacion mediante localstorage y vista de invitado con posibilidad de agregar productos al carrito de compras
+
+
 
 ## Tecnologías Utilizadas
 
