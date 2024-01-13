@@ -4,6 +4,8 @@
 
 El proyecto consiste en una aplicación web que permite unir deportistas y/o personas que se ejercitan con entrenadores personales, logrando una mayor comodidad, diversidad de precios, flexibilidad de horarios y elección de entrenadores. Trabajamos en un equipo de 7 desarrolladores bajo metodologias agiles como SCRUM y Trello, un mentor y un PO. La duracion del proyecto fue de 1 mes y medio. Los mockups iniciales se hicienron en Figma, el diagrama y las relaciones de la base de datos se hicieron en Diagrams.net.
 
+Ademas de las funcionalidades que se van agregando, corrigiendo y mejorando, se tiene pensado hacer videollamadas entre usuarios y profesores, un sistema de chat en vivo y una aplicacion de celular con react native
+
 ## Tabla de Contenidos
 
 - [Funcionalidades](#funcionalidades)
@@ -57,6 +59,11 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 
 - Vite
 - React
+- Material UI
+- Firebase
+- Stripe
+- Nodemailer
+- Cloudinary
 - React Router
 - Redux
 - Axios
@@ -76,9 +83,11 @@ El proyecto consiste en una aplicación web que permite unir deportistas y/o per
 
 ![image](https://github.com/haliercesr/FitRevolution/assets/115671323/b4c501c1-21a5-45df-95bc-58f1d0fd7c6b)
 
+
 ![image](https://github.com/haliercesr/FitRevolution/assets/115671323/359d007e-4594-4682-b62a-5ebc891b9673)
 
 
+![image](https://github.com/haliercesr/FitRevolution/assets/115671323/169861f0-b162-4876-b0b6-299b15ecba85)
 
 
 
